@@ -1,0 +1,2 @@
+# Twitter-Sentiment-and-Customer-Churn-Detection
+Performed customer sentiment analysis on the tweets related to 4 major streaming services, applied various NLP and text analysis tools, and created multiple ensemble and deep learning classification models to implement churn detection and performed a rule-based feature extraction to find out the reasons for churn. Created a visualization dashboard using Plotly and Dash and deployed on Heroku.
